@@ -9,7 +9,7 @@
 
 ## Sobre o [Nome do Seu Projeto]
 
-O [Nome do Projeto] é um framework/aplicativo web desenvolvido para [breve descrição do objetivo principal do seu projeto]. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. Esta ferramenta facilita as tarefas comuns usadas na maioria dos projetos, tais como:
+O meu projeto de loja de ferramentas é um framework/aplicativo web desenvolvido para facilitar a orgtanizaçao de ferramentas e ferragens no geral. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. Esta ferramenta facilita as tarefas comuns usadas na maioria dos projetos, tais como:
 
 - [Sistema de autenticação simples e seguro](https://seu-link.com).
 - [Estrutura de banco de dados otimizada](https://seu-link.com).
@@ -17,7 +17,7 @@ O [Nome do Projeto] é um framework/aplicativo web desenvolvido para [breve desc
 - Interface intuitiva e responsiva para o usuário.
 - [Processamento de tarefas em segundo plano](https://seu-link.com).
 
-O [Nome do Projeto] é acessível, poderoso e oferece as ferramentas necessárias para construir aplicações robustas e escaláveis.
+O meu projeto é acessível, poderoso e oferece as ferramentas necessárias para construir aplicações robustas e escaláveis.
 
 ## Aprendendo a Usar
 
@@ -49,4 +49,4 @@ Se você descobrir qualquer vulnerabilidade de segurança no [Nome do Projeto], 
 
 ## Licença
 
-O [Nome do Projeto] é um software de código aberto licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+o meu projeto é um software de código aberto licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
