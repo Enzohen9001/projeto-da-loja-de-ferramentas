@@ -37,15 +37,15 @@ Gostaríamos de agradecer aos seguintes parceiros e patrocinadores por financiar
 
 ## Como Contribuir
 
-Obrigado por considerar contribuir para o [Nome do Projeto]! O guia de contribuição pode ser encontrado detalhadamente na nossa [documentação de contribuição](https://seu-link.com).
+Obrigado por considerar contribuir para o meu projeto! O guia de contribuição pode ser encontrado detalhadamente na nossa [documentação de contribuição](https://seu-link.com).
 
 ## Código de Conduta
 
-Para garantir que a comunidade do [Nome do Projeto] seja acolhedora e inclusiva para todos, pedimos que revise e siga o nosso [Código de Conduta](https://seu-link.com).
+Para garantir que a comunidade do meu projeto seja acolhedora e inclusiva para todos, pedimos que revise e siga o nosso [Código de Conduta](https://seu-link.com).
 
 ## Vulnerabilidades de Segurança
 
-Se você descobrir qualquer vulnerabilidade de segurança no [Nome do Projeto], por favor, envie um e-mail diretamente para a nossa equipe de segurança através de [seu-email@dominio.com](mailto:seu-email@dominio.com). Todas as vulnerabilidades serão tratadas com máxima prioridade.
+Se você descobrir qualquer vulnerabilidade de segurança no meu projeto, por favor, envie um e-mail diretamente para a nossa equipe de segurança através de [seu-email@dominio.com](mailto:seu-email@dominio.com). Todas as vulnerabilidades serão tratadas com máxima prioridade.
 
 ## Licença
 
